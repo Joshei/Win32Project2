@@ -4,7 +4,6 @@
 // test
 
 //first change aaa
-//second change bbb
 
 #include "stdafx.h"
 #include "Win32Project2.h"
