@@ -1,5 +1,5 @@
 // Win32Project2.cpp : Defines the entry point for the application.
-//
+////
 
 #include "stdafx.h"
 #include "Win32Project2.h"
