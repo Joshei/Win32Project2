@@ -2,6 +2,11 @@
 //
 ////////test merge
 // test
+
+
+//new
+
+
 #include "stdafx.h"
 #include "Win32Project2.h"
 
