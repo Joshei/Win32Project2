@@ -2,29 +2,6 @@
 //
 ////////test merge
 // test
-//
-//
-//cherry pick next this is added
-//
-//
-//
-//
-
-
-//first change aaa
-
-//
-//
-//cherry pick
-//
-//
-//
-//
-
-
-//merge this prior
-//merge this next
-
 #include "stdafx.h"
 #include "Win32Project2.h"
 
