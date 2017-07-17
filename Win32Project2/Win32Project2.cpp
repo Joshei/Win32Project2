@@ -2,7 +2,8 @@
 
 //cherry pick example
 
-//source
+//source 2
+//source 2
 
 #include "stdafx.h"
 #include "Win32Project2.h"
