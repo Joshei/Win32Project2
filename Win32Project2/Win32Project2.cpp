@@ -1,10 +1,6 @@
 // Win32Project2.cpp : Defines the entry point for the application.
 //
-////////test merge
-// test
 
-//first change aaa
-//second change bbb
 
 #include "stdafx.h"
 #include "Win32Project2.h"
