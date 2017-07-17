@@ -3,7 +3,7 @@
 //cherry pick example
 
 //source in branch
-//mybranch local
+//mybranch local 2
 
 #include "stdafx.h"
 #include "Win32Project2.h"
