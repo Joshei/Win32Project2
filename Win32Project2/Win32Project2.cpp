@@ -4,6 +4,8 @@
 
 //source in branch
 
+//master branch to rebase
+
 #include "stdafx.h"
 #include "Win32Project2.h"
 
