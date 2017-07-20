@@ -8,6 +8,8 @@
 //practice for rebase 2
 
 //master branch to rebase
+//this is master experiment to update in mybranch
+
 
 #include "stdafx.h"
 #include "Win32Project2.h"
