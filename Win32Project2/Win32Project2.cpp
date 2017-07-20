@@ -4,6 +4,8 @@
 
 //source in branch
 //mybranch local 3
+//practice for rebase 1
+//practice for rebase 2
 
 //master branch to rebase
 
