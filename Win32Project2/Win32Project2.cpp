@@ -3,14 +3,7 @@
 //cherry pick example
 
 //source in branch
-//mybranch local 3
-//practice for rebase 1
-//practice for rebase 2
-
-//master branch to rebase
-//this is master experiment to update in mybranch
-
-
+//cloned to here
 #include "stdafx.h"
 #include "Win32Project2.h"
 
